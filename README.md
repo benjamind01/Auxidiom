@@ -13,33 +13,33 @@
 	<tbody>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C%2B%2B">Java</a></td>
-			<td align="center"><a href="https://www.opengl.org//">JavaFX</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Java">Java</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaFX">JavaFX</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">NodeJS</a></td>
-			<td align="center"><a href="https://www.typescriptlang.org/">PHP</a></td>
-			<td align="center"><a href="https://www.adobe.com/products/aftereffects.html">Photoshop</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Node.js">NodeJS</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/PHP">PHP</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">Photoshop</a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">C#</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Python</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C">C#</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Python">Python</a></td>
 			<td align="center"></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
-			<td align="center"><a href="https://www.typescriptlang.org/">ReactJS</a></td>
-			<td align="center"><a href="https://nodejs.org/en/">Symfony</a></td>
-			<td align="center"><a href="http://expressjs.com/">Django</a></td>
-			<td align="center"><a href="https://www.adobe.com/products/illustrator.html">After Effect</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">ReactJS</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Symfony">Symfony</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Django_(web_framework)">Django</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Adobe_After_Effects">After Effect</a></td>
 		</tr>
 		<tr>
-			<td align="center"><a href="https://www.python.org/">Git</a></td>
-			<td align="center"><a href="https://ocaml.org/">Unix</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
 			<td align="center"></td>
-			<td align="center"><a href="https://jquery.com/">VueJS</a></td>
-			<td align="center"><a href="https://getbootstrap.com/">jQuery</a></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Ruby</a></td>
-			<td align="center"><a href="https://sql.sh/">SQL</a></td>
-			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Solidworks</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Vue.js">VueJS</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/JQuery">jQuery</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/SolidWorks">Solidworks</a></td>
 		</tr>
 	</tbody>
 </table>
