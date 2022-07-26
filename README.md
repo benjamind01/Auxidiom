@@ -38,19 +38,8 @@
 			<td align="center"><a href="https://jquery.com/">VueJS</a></td>
 			<td align="center"><a href="https://getbootstrap.com/">jQuery</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Ruby</a></td>
-			<td align="center"></td>
-			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Solidworks</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://www.khronos.org/opencl/">OpenCL</a></td>
-			<td align="center"><a href="https://cmake.org/">CMake</a></td>
-			<td align="center"><a href="https://openjfx.io/">JavaFX</a></td>
-			<td align="center"><a href="https://threejs.org/">ThreeJS</a></td>
-			<td align="center"><a href="https://animejs.com/">AnimeJS</a></td>
 			<td align="center"><a href="https://sql.sh/">SQL</a></td>
-			<td align="center"><a href="https://www.mongodb.com/">MongoDB</a></td>
-			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Solidworks</a></td>
 		</tr>
 	</tbody>
 </table>
