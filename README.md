@@ -12,7 +12,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/C_(programming_language) target="_blank">C</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Java">Java</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaFX">JavaFX</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
