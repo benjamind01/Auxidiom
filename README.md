@@ -24,7 +24,7 @@
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C">C#</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Python">Python</a></td>
-			<td align="center">Unity</td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)">Unity</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">ReactJS</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Symfony">Symfony</a></td>
